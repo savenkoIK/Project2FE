@@ -85,11 +85,6 @@ color: #d4983f;
   border-bottom: 3px solid grey;
   border-radius: 5px;
 }
-footer
-{
-  text-align: center;
-  padding: 60px;
-}
 .tag-list
 {
   display: flex;
